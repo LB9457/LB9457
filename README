@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
       
-..............                                     lb9457@localhost 
-            ..,;:ccc,.                             ---------------- 
-          ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64 
-.....''''..........,:ld;                           Host: Vostro 7580 
-           .';;;:::;,,.x,                          Kernel: 5.16.0-kali1-amd64 
-      ..'''.            0Xxoc:,.  ...              Uptime: 9 mins 
-  ....                ,ONkc;,;cokOdc',.            Packages: 2538 (dpkg) 
- .                   OMo           ':ddo.          Shell: zsh 5.8.1 
-                    dMc               :OO;         Resolution: 1920x1080 
-                    0M.                 .:o.       DE: Plasma 5.23.5 
-                    ;Wd                            WM: KWin 
-                     ;XO,                          Theme: Kali-Light [Plasma], Kali-Dark [GTK2/3] 
-                       ,d0Odlc;,..                 Icons: Miya-dark [Plasma], Miya-dark [GTK2/3] 
-                           ..',;:cdOOd::,.         Terminal: qterminal 
-                                    .:d;.':;.      Terminal Font: FiraCode 10 
-                                       'd,  .'     CPU: Intel i7-8750H (12) @ 4.100GHz 
-                                         ;l   ..   GPU: NVIDIA GeForce GTX 1050 Ti Mobile 
-                                          .o       GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
-                                            c      Memory: 1941MiB / 15691MiB 
+..............                                                     lb9457@localhost 
+            ..,;:ccc,.                                             ---------------- 
+          ......''';lxO.                                           OS: Kali GNU/Linux Rolling x86_64 
+.....''''..........,:ld;                                           Host: Vostro 7580 
+           .';;;:::;,,.x,                                          Kernel: 5.16.0-kali1-amd64 
+      ..'''.            0Xxoc:,.  ...                              Uptime: 9 mins 
+  ....                ,ONkc;,;cokOdc',.                            Packages: 2538 (dpkg) 
+ .                   OMo           ':ddo.                          Shell: zsh 5.8.1 
+                    dMc               :OO;                         Resolution: 1920x1080 
+                    0M.                 .:o.                       DE: Plasma 5.23.5 
+                    ;Wd                                            WM: KWin 
+                     ;XO,                                          Theme: Kali-Light [Plasma], Kali-Dark [GTK2/3] 
+                       ,d0Odlc;,..                                 Icons: Miya-dark [Plasma], Miya-dark [GTK2/3] 
+                           ..',;:cdOOd::,.                         Terminal: qterminal 
+                                    .:d;.':;.                      Terminal Font: FiraCode 10 
+                                       'd,  .'                     CPU: Intel i7-8750H (12) @ 4.100GHz 
+                                         ;l   ..                   GPU: NVIDIA GeForce GTX 1050 Ti Mobile 
+                                          .o                       GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
+                                            c                      Memory: 1941MiB / 15691MiB 
                                             .'
                                              .                             
                                                                            
